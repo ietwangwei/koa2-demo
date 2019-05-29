@@ -1,0 +1,10 @@
+{
+  "errorCode": 0,
+  "message": "操作成功",
+  "systemId": "usercenter",
+  "data": {
+    "realName": "viv",
+    "ticket": "37dc7a36-f4eb-4b9a-ae49-72168c0c263b",
+    "userId": 110634156229635
+  }
+}
